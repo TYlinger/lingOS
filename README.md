@@ -1,2 +1,2 @@
 # lingOS
-基于Debian10制作的系统
+Based on Debian 10 Produced System
